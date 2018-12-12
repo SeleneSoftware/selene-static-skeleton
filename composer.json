@@ -1,19 +1,5 @@
 {
     "require": {
-        "twig/twig": "^2.4",
-        "erusev/parsedown": "^1.7",
-        "aptoma/twig-markdown": "^3.0",
-        "symfony/yaml": "^4.1"
-    },
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "App\\Tests\\": "tests/"
-        }
+        "selene/staticsite": "*"
     }
-
 }
