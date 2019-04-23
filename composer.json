@@ -1,5 +1,5 @@
 {
-    "name": "SeleneStaticSkeleton",
+    "name": "selenesoftware/selenestaticskeleton",
     "require": {
         "selenesoftware/staticsite": "*"
     }
