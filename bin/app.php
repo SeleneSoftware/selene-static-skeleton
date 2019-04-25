@@ -19,7 +19,7 @@
 
 require_once __DIR__.'/../vendor/autoload.php';
 
-use App\Application;
+use Selene\StaticSite\Application;
 
 $app = new Application;
 $app->run();
