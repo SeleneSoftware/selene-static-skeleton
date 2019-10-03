@@ -6,3 +6,8 @@
 
 *.swp
 
+# No need for any lock files to be present.
+yarn.lock
+package-lock.json
+composer.lock
+symfony.lock
