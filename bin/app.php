@@ -22,4 +22,7 @@ require_once __DIR__.'/../vendor/autoload.php';
 use Selene\StaticSite\Application;
 
 $app = new Application;
+
+// Any plugins or Twig extensions can be loaded here, before the run method is called.
+
 $app->run();
